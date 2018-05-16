@@ -8,6 +8,6 @@ class Song
   def name(artist)
 
   end
-  
+
   end
 end
